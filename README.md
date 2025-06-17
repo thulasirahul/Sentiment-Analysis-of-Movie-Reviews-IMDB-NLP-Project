@@ -109,33 +109,30 @@ new_reviews = [
     "I absolutely loved this movie! The storyline was fantastic and the acting was superb.",
     "This was the worst film I have ever seen. It was a total waste of time."
 ]
+```
 
-# Clone the repository
+## 🚀 How to Run This Project
+
+# 1. Clone the repository
+```bash
 git clone https://github.com/your-username/sentiment-analysis-imdb.git
 cd sentiment-analysis-imdb
+```
 
-# (Optional) Create a virtual environment
+# 2. (Optional) Create a virtual environment
+```bash
 python -m venv venv
-venv\Scripts\activate       # For Windows
-# source venv/bin/activate  # For Linux/Mac
+venv\Scripts\activate  # For Windows
+# Or use: source venv/bin/activate  # For Linux/Mac
+```
 
-# Install required dependencies
+# 3. Install the required dependencies
+```bash
 pip install -r requirements.txt
+```
 
-# Run the Python script
+# 4. Run the Python script
+```bash
 python Sentiment_Analysis.py
+```
 
-# Clone the repository
-git clone https://github.com/your-username/sentiment-analysis-imdb.git
-cd sentiment-analysis-imdb
-
-# (Optional) Create a virtual environment
-python -m venv venv
-venv\Scripts\activate       # For Windows
-# source venv/bin/activate  # For Linux/Mac
-
-# Install required dependencies
-pip install -r requirements.txt
-
-# Run the Python script
-python Sentiment_Analysis.py
