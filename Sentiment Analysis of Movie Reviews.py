@@ -12,8 +12,6 @@ from sklearn.metrics import classification_report, confusion_matrix
 from sklearn.pipeline import make_pipeline
 
 nltk.download('stopwords')
-
-# Global stemmer and stopword list
 stemmer = PorterStemmer()
 stop_words = set(stopwords.words('english'))
 
@@ -67,7 +65,6 @@ def predict_new_reviews(model, reviews):
         print(f"Predicted Sentiment: {'✅ Positive' if prediction == 1 else '❌ Negative'}\n")
 
 if __name__ == "__main__":
-    # ✅ Your original read_csv line remains unchanged
     data = pd.read_csv(r'C:\Users\jthul\Dropbox\My PC (LAPTOP-1NRT3JF9)\Desktop\projects\Sentiment Analysis of Movie Reviews\IMDB_Dataset.csv')
 
     print_data_info(data)
