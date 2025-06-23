@@ -88,7 +88,7 @@ To build a robust and accurate machine learning model that:
 
 Displays the equal distribution of positive and negative reviews.
 
-![Sentiment Distribution](/sentiment_distribution.png)
+![Sentiment Distribution](sentiment_distribution.png)
 
 ---
 
@@ -96,7 +96,7 @@ Displays the equal distribution of positive and negative reviews.
 
 Shows predicted vs actual sentiment labels. A strong diagonal reflects correct classifications.
 
-![Confusion Matrix](/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ---
 
