@@ -96,7 +96,7 @@ Displays the equal distribution of positive and negative reviews.
 
 Shows predicted vs actual sentiment labels. A strong diagonal reflects correct classifications.
 
-![Confusion Matrix](Confusion Matrix.png)
+![Confusion Matrix](./Confusion_Matrix.png)
 
 ---
 
