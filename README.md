@@ -88,7 +88,7 @@ To build a robust and accurate machine learning model that:
 
 Displays the equal distribution of positive and negative reviews.
 
-![Sentiment Distribution](samples/Sentiment_Distribution.png)
+![Sentiment Distribution](https://github.com/thulasirahul/Sentiment-Analysis-of-Movie-Reviews-IMDB-NLP-Project/blob/main/Sentiment%20Distribution.png)
 
 ---
 
