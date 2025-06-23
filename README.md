@@ -96,7 +96,7 @@ Displays the equal distribution of positive and negative reviews.
 
 Shows predicted vs actual sentiment labels. A strong diagonal reflects correct classifications.
 
-![Confusion Matrix](./Confusion_Matrix.png)
+![Confusion Matrix](https://github.com/thulasirahul/Sentiment-Analysis-of-Movie-Reviews-IMDB-NLP-Project/blob/main/Confusion%20Matrix.png)
 
 ---
 
