@@ -88,7 +88,7 @@ To build a robust and accurate machine learning model that:
 
 Displays the equal distribution of positive and negative reviews.
 
-![Sentiment Distribution](sentiment_distribution.png)
+![Sentiment Distribution](sentiment%20distribution.png)
 
 ---
 
